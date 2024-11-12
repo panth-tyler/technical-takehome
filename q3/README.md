@@ -36,7 +36,7 @@ Write a SQL query (in your SQL dialect of choice) that lists the `request_id`s f
 
 Each state is represented by two Senators, but not all Senators make CDS requests. Write a SQL query that lists all states where only one of the two Senators made a request.
 
-## Part B: Architecture Design
+## Part B: Architecture Design˜
 
 ### Question B.(i)
 
@@ -61,3 +61,6 @@ Suppose staff want the ability to mark two CDS requests as (1) confidently disti
 Describe how you would architect such a system. In your answer, describe alternatives you considered and the tradeoffs of each compared to your preferred design.
 
 We do not expect you to have a perfect or fully fleshed out solution. Feel free to describe or draw out an answer. We just want to see your thought process!
+
+
+> Answers are provided in SQL and Markdown files.

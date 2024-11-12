@@ -12,4 +12,18 @@ The provided starter code includes only the `.vue` Single-File Component. **You 
 
 ## Additional Notes
 
-If you'd like, use this space to include thoughts, questions, or documentation you'd like to supplement your code.
+Simple project created with `npm init quasar`. Counter implementation is located at `src/components/CounterItem.vue`.
+
+## Project Setup
+
+### Install the dependencies
+
+```bash
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```bash
+npx quasar dev
+```

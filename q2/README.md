@@ -12,4 +12,16 @@ Suppose instead that you cannot make any assumptions about a name’s capitaliza
 
 ## Additional Notes
 
- If you'd like, use this space to include thoughts, questions, or documentation you'd like to supplement your code.
+Part B uses predifined dictionaries to match names against and checks for capitalized words that have prepositions before them.
+
+### Execute _anonymize_ script
+
+```bash
+python3 ./anonymize.py
+```
+
+### Execute _anonymize_ script with doctest module
+
+```bash
+python3 ./anonymize.py -v
+```
